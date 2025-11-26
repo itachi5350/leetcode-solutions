@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/itachi5350/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itachi5350/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/itachi5350/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/itachi5350/leetcode-solutions/tree/master/0704-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itachi5350/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itachi5350/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/itachi5350/leetcode-solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
