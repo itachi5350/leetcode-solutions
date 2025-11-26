@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/itachi5350/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/itachi5350/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/itachi5350/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/itachi5350/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/itachi5350/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itachi5350/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itachi5350/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/itachi5350/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/itachi5350/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itachi5350/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/itachi5350/leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itachi5350/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/itachi5350/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/itachi5350/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Simulation
 |  |
 | ------- |
