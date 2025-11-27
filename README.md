@@ -93,16 +93,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/itachi5350/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/itachi5350/leetcode-solutions/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/itachi5350/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itachi5350/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/itachi5350/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/itachi5350/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/itachi5350/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/itachi5350/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/itachi5350/leetcode-solutions/tree/master/0136-single-number) |
 ## Matrix
 |  |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/itachi5350/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
