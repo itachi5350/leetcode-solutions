@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itachi5350/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/itachi5350/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/itachi5350/leetcode-solutions/tree/master/0067-add-binary) |
 ## Stack
 |  |
