@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/itachi5350/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/itachi5350/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/itachi5350/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/itachi5350/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/itachi5350/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/itachi5350/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/itachi5350/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/itachi5350/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/itachi5350/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/itachi5350/leetcode-solutions/tree/master/0067-add-binary) |
