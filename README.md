@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/itachi5350/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itachi5350/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/itachi5350/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/itachi5350/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/itachi5350/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/itachi5350/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/itachi5350/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itachi5350/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/itachi5350/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/itachi5350/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/itachi5350/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/itachi5350/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itachi5350/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/itachi5350/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Queue
 |  |
 | ------- |
