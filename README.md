@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/itachi5350/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/itachi5350/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/itachi5350/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/itachi5350/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/itachi5350/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/itachi5350/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
