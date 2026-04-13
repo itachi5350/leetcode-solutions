@@ -5,9 +5,9 @@ public:
        sort(nums.begin(),nums.end());
        for(int i=1;i<nums.size();i++){
           if(nums[i]<=nums[i-1]){
-             int n=(nums[i-1]+1)-nums[i];
-             c+=n;
-             nums[i]+=n;
+             int n=nums[i-1]+1;
+             c+=n-nums[i];
+             nums[i]=n;
        }
        }
        return c;
