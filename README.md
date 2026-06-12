@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0647-palindromic-substrings](https://github.com/itachi5350/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itachi5350/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/itachi5350/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itachi5350/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/itachi5350/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/itachi5350/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/itachi5350/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/itachi5350/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/itachi5350/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
