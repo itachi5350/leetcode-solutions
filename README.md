@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/itachi5350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/itachi5350/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/itachi5350/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/itachi5350/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/itachi5350/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/itachi5350/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/itachi5350/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/itachi5350/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/itachi5350/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
