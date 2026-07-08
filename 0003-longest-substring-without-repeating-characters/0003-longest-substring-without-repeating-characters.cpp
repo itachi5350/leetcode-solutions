@@ -4,7 +4,7 @@ public:
     unordered_set<char>ss;
     int res=0,l=0;
     for(int r=0;r<s.length();r++){
-        while(ss.find(s[r])!=ss.end()){
+        while(ss.count(s[r])){
             ss.erase(s[l]);
             l+=1;
         }
