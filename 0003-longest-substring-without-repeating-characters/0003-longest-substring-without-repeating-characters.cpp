@@ -11,6 +11,6 @@ public:
        v[s[r]]++;
        res=max(res,r-l+1);
     }
-    return res; 
+    return max(0,res); 
     }
 };
