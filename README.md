@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/itachi5350/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itachi5350/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itachi5350/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/itachi5350/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/itachi5350/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/itachi5350/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/itachi5350/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/itachi5350/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itachi5350/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/itachi5350/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
