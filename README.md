@@ -365,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/itachi5350/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/itachi5350/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
