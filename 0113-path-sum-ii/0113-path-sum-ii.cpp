@@ -12,18 +12,20 @@
 class Solution {
 public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-     vector<vector<int>>res;
-     vector<int>p;
-     dugu(root, targetSum,res,p,0);
-     return res;   
+        vector<vector<int>>res;
+        vector<int>path;
+        dugu(res,path,0,root,targetSum);
+        return res;
     }
-    void dugu(TreeNode* root, int targetSum, vector<vector<int>> &res, vector<int> &p, int cs){
-        if(!root)return;
-        cs+=root->val;
-        p.push_back(root->val);
-        if(root->left==nullptr && root->right==nullptr && cs==targetSum) res.push_back(p);
-        dugu(root->left,targetSum,res,p,cs);
-        dugu(root->right,targetSum,res,p,cs);
-        p.pop_back();
+    void dugu(vector<vector<int>> &res, vector<int> &path, int csum, TreeNode* &root, int tsum){
+        if(!root) return;
+        csum+=root->val;
+        path.push_back(root->val);
+        if(!root->left && !root->right && csum==tsum){
+            res.push_back(path);
+        }  
+        dugu(res,path,csum,root->left,tsum);
+        dugu(res,path,csum,root->right,tsum);
+        path.pop_back();
     }
 };
