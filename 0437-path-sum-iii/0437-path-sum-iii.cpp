@@ -12,17 +12,15 @@
 class Solution {
 public:
     int pathSum(TreeNode* root, int targetSum) {
-    if(!root)return 0;
-     return count(root,targetSum)+
-     pathSum(root->left,targetSum)+
-     pathSum(root->right,targetSum);
+        if(!root) return 0;
+        return dugu(root,targetSum)+pathSum(root->left,targetSum)+pathSum(root->right,targetSum);
     }
-    int count(TreeNode* &root, long long targetSum){
-        if(!root)return 0;
-        int res=0;
-        if(root->val==targetSum)res++;
-        res+=count(root->left,targetSum-root->val);
-        res+=count(root->right,targetSum-root->val);
-        return res;
+    int dugu(TreeNode* root, long long tsum){
+        if(!root) return 0;
+        int count=0;
+        if(root->val==tsum) count++;
+        count+=dugu(root->left,tsum-root->val);
+        count+=dugu(root->right,tsum-root->val);
+        return count;
     }
 };
