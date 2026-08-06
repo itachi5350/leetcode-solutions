@@ -9,42 +9,54 @@
  */
 class Solution {
 public:
-      vector<int>arr;
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        dfs(root,target,k);
-        return arr;
-    }
-    void dugu(TreeNode* root, int k){
-        if(!root || k<0) return;
-        if(k==0) {
-            arr.push_back(root->val);
-            return;
+        vector<int>ans;
+        unordered_map<int,TreeNode*>m;
+        queue<TreeNode*>q;
+        q.push(root);
+
+        while(!q.empty()){
+            int s=q.size();
+            for(int i=0;i<s;i++){
+                auto top=q.front();
+                q.pop();
+
+                if(top->left){
+                    m[top->left->val]=top;
+                    q.push(top->left);
+                }
+                if(top->right){
+                    m[top->right->val]=top;
+                    q.push(top->right);
+                }
+            }
         }
-        dugu(root->left,k-1);
-        dugu(root->right,k-1);
-    }
-    int dfs(TreeNode* root, TreeNode* target, int k){
-        if(!root) return -1;
-        if(root ==target){
-            dugu(root,k);
-            return 0;
+
+        unordered_map<int,int>v;
+        q.push(target);
+        
+        while(k-- && !q.empty()){
+            int s=q.size();
+            for(int i=0;i<s;i++){
+                auto top = q.front();
+                q.pop();
+                v[top->val]=1;
+                if(top->left && !v[top->left->val]){
+                    q.push(top->left);
+                }
+                if(top->right && !v[top->right->val]){
+                    q.push(top->right);
+                }
+                if(m[top->val] && !v[m[top->val]->val]){
+                    q.push(m[top->val]);
+                }
+            }
         }
-        int l=dfs(root->left,target,k);
-        if(l!=-1){
-            if(l+1==k) arr.push_back(root->val);
-        else {
-            dugu(root->right,k-l-2);
+
+        while(!q.empty()){
+            ans.push_back(q.front()->val);
+            q.pop();
         }
-        return 1+l;
-        }
-        int r=dfs(root->right,target,k);
-        if(r!=-1){
-            if(r+1==k) arr.push_back(root->val);
-        else {
-            dugu(root->left,k-r-2);
-        }
-        return 1+r;
-        }
-        return -1;
+        return ans;
     }
 };
