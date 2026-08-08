@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/itachi5350/leetcode-solutions/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/itachi5350/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/itachi5350/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/itachi5350/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/itachi5350/leetcode-solutions/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/itachi5350/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
