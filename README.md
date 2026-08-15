@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/itachi5350/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/itachi5350/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0709-to-lower-case](https://github.com/itachi5350/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/itachi5350/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/itachi5350/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
