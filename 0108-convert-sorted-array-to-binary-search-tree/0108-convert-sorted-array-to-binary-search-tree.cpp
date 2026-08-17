@@ -12,13 +12,13 @@
 class Solution {
 public:
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        return dugu(nums, 0,nums.size());
+        return dugu(nums, 0,nums.size()-1);
     }
     TreeNode* dugu(vector<int>& nums, int l, int r){
-        if(l>=r)return NULL;
+        if(l>r)return NULL;
         int mid=l+(r-l)/2;
         TreeNode* node=new TreeNode(nums[mid]);
-        node->left=dugu(nums,l,mid);
+        node->left=dugu(nums,l,mid-1);
         node->right=dugu(nums,mid+1,r);
         return node;
     }
