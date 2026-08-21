@@ -31,12 +31,10 @@ public:
             
             }
 
-            if(lc%2==1){
+            if(lc%2!=0){
                 reverse(v.begin(),v.end());
-                res.push_back(v);
-            }else{
-                res.push_back(v);
             }
+                res.push_back(v);
             lc++;
         }
 
