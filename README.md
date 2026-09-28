@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itachi5350/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/itachi5350/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/itachi5350/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/itachi5350/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itachi5350/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itachi5350/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itachi5350/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/itachi5350/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/itachi5350/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/itachi5350/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Divide and Conquer
 |  |
 | ------- |
