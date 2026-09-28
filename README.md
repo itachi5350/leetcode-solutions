@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itachi5350/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/itachi5350/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itachi5350/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/itachi5350/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itachi5350/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/itachi5350/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itachi5350/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itachi5350/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/itachi5350/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/itachi5350/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
