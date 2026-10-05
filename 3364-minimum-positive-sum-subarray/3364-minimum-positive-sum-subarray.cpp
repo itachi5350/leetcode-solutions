@@ -2,15 +2,15 @@ class Solution {
 public:
     int minimumSumSubarray(vector<int>& nums, int l, int r) {
         int minsum=INT_MAX;
-        for(int k=l;k<=r;k++){
-            int s=0;
-            for(int i=0;i<nums.size();i++){
-                s+=nums[i];
-                if(i>=k-1){
-                if(s>0) minsum=min(minsum,s);
-                s-=nums[i-k+1];
-            }
+        vector<int>v(nums.size()+1,0);
+        for(int i=0;i<nums.size();i++){
+            v[i+1]=v[i]+nums[i];
         }
+        for(int k=l;k<=r;k++){
+            for(int i=0;i+k<=nums.size();i++){
+                int s=v[i+k]-v[i];
+                if(s>0) minsum=min(minsum,s);
+            }
         }
         return minsum==INT_MAX?-1:minsum;
     }
