@@ -1,27 +1,23 @@
 class Solution {
 public:
     bool isBipartite(vector<vector<int>>& graph) {
-        int m=graph.size();
-        vector<int>v(m,0);
-        for(int i=0;i<m;i++){
-          if(v[i]==0){
-            v[i]=1;
-            if(!dfs(i,v,graph)) return false;
-          }
-        } 
-        return true;
-    }
-    bool dfs(int u, vector<int> &v,vector<vector<int>>& graph){
-        for(int j: graph[u]){
-            if(v[j]==0){
-                if(v[u]==1) v[j]=2;
-                else v[j]=1;
-                 if(!dfs(j,v,graph)) return false;
+        vector<int>color(graph.size(),0);
+        for(int i=0;i<graph.size();i++){
+           if(color[i]==0){
+            color[i]=1;
+            if(!dfs(i,graph,color)) return false;
             }
-           
-            if(v[j]==v[u]) return false;
-
         }
-        return true;
+       return true;
     }
+   bool dfs(int u,vector<vector<int>>& graph,vector<int>&color){
+     for(int j : graph[u]){
+        if(color[j]==0){
+           color[j]=3-color[u];
+         if(!dfs(j,graph,color)) return false;
+     }
+     else if(color[j]==color[u]) return false;
+   }
+   return true;
+   }
 };
